@@ -1,6 +1,6 @@
 # Centronics 50 Pin RJ21 Bezel
 
-A bezel for a Centronics 50 Pin / RJ21 Connector. The eBay seller lists this model as a "EB67Q"
+A bezel for a Centronics 50 Pin / RJ21 Connector. The eBay seller lists this model as a "EB67Q" but this is a slightly modified version with the Rivnuts drilled out and replaced with nuts on the front.
 
 The purpose of the bezel is to hide the probably untidy hole you've cut in the panel to mount the socket.
 
